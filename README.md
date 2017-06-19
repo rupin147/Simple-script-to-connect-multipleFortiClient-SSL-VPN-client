@@ -2,7 +2,7 @@
 Simple script to connect multipleFortiClient SSL VPN client
 
 -----------------------------------------------------------------------------------------------------------------
-Detail : - visit https://wordpress.com/post/linux2me.wordpress.com/1392
+Detail : - visit https:https://linux2me.wordpress.com
 -----------------------------------------------------------------------------------------------------------------
 Before executing script make changes for your connection
 
