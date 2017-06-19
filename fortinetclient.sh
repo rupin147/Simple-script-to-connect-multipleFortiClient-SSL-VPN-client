@@ -1,5 +1,5 @@
 #!/usr/bin/expect 
-spawn /home/rupin/forticlientsslvpn/64bit/forticlientsslvpn_cli --server <IP Address>:<Port Number> --vpnuser <usernmae>
+spawn /home/rupin/forticlientsslvpn/64bit/forticlientsslvpn_cli --server <IP Address>:<Port Number> --vpnuser <username>
 expect "Password for VPN:"
 send "<your password>\r"
 expect "Would you like to connect to this server? (Y/N)"
